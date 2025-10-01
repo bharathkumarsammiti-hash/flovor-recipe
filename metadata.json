@@ -1,0 +1,5 @@
+{
+  "name": "FlavorGraph: Intelligent Recipe Navigator",
+  "description": "An intelligent recipe navigator that suggests recipes based on available ingredients, provides algorithmic insights, and offers smart substitutions.",
+  "requestFramePermissions": []
+}
